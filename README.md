@@ -40,7 +40,7 @@ All notebooks are designed to run on **Kaggle** (free GPU).
 
 ## Results
 
-Achieved **20–35% accuracy improvement** using the combined feature set (SNTDF + Extended Hudgins) over the Hudgins-5 baseline with SVM/LDA across all 3 benchmarks.
+Achieved **20–35% accuracy improvement** using the combined feature set (SNTDF + Hudgin_9) over the Hudgins-5 baseline with SVM/LDA across all 3 benchmarks.
 
 ---
 
