@@ -10,9 +10,9 @@ This repository contains training code for hierarchical multi-label classificati
 
 ## Repository Structure
 ```text
-meta learner for AT-EMG.ipynb      # Training and evaluation pipeline for AT-EMG dataset
-meta learner for fors-emg.ipynb    # Training and evaluation pipeline for FORS-EMG dataset
-meta learner for unibo semg.ipynb  # Training and evaluation pipeline for UniBo-INAIL dataset
+HMC for AT-EMG.ipynb      # Training and evaluation pipeline for AT-EMG dataset
+HMC learner for fors-emg.ipynb    # Training and evaluation pipeline for FORS-EMG dataset
+HMC learner for unibo semg.ipynb  # Training and evaluation pipeline for UniBo-INAIL dataset
 ```
 
 ---
